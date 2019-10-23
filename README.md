@@ -1,1 +1,1 @@
-# awsome-gis
+# awesome-gis
